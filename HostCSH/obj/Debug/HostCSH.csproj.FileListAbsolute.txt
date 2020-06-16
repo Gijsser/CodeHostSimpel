@@ -1,0 +1,13 @@
+C:\Users\I388267\source\repos\HostCSH\HostCSH\bin\Debug\HostCSH.exe.config
+C:\Users\I388267\source\repos\HostCSH\HostCSH\bin\Debug\HostCSH.exe
+C:\Users\I388267\source\repos\HostCSH\HostCSH\bin\Debug\HostCSH.pdb
+C:\Users\I388267\source\repos\HostCSH\HostCSH\obj\Debug\HostCSH.csprojAssemblyReference.cache
+C:\Users\I388267\source\repos\HostCSH\HostCSH\obj\Debug\HostCSH.Form1.resources
+C:\Users\I388267\source\repos\HostCSH\HostCSH\obj\Debug\HostCSH.Properties.Resources.resources
+C:\Users\I388267\source\repos\HostCSH\HostCSH\obj\Debug\HostCSH.csproj.GenerateResource.cache
+C:\Users\I388267\source\repos\HostCSH\HostCSH\obj\Debug\HostCSH.csproj.CoreCompileInputs.cache
+C:\Users\I388267\source\repos\HostCSH\HostCSH\obj\Debug\HostCSH.exe
+C:\Users\I388267\source\repos\HostCSH\HostCSH\obj\Debug\HostCSH.pdb
+C:\Users\I388267\source\repos\HostCSH\HostCSH\bin\Debug\Newtonsoft.Json.dll
+C:\Users\I388267\source\repos\HostCSH\HostCSH\bin\Debug\Newtonsoft.Json.xml
+C:\Users\I388267\source\repos\HostCSH\HostCSH\obj\Debug\HostCSH.csproj.CopyComplete
